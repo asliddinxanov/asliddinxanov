@@ -1,4 +1,4 @@
-### Hello, 👋 I'm Boburkhanov Asliddin
+### Hello, 👋 I'm Asliddin Boburkhanov
 
 <!--
 **asliddinxanov/asliddinxanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
