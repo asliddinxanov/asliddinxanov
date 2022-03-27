@@ -1,5 +1,3 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="right">
-
 <p align="center" >Hello, 👋 I'm Asliddin Boburkhanov <img src="Gifs/Developer.gif" width=70px></h1>
 
 <h3 align="center"><i>A Passionate Developer from Uzbekistan, live in Japan</i></h3></br></br>
