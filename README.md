@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - <b>🔗 Connect with me :</b>
 <br/>
 <a href="https://www.linkedin.com/in/asliddin-boburkhanov-158a10197/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/shermurot"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/xanov_a/?hl=ja"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/xanov_a"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;<a
-href="https://t.me/Xanov_A"> <img src="<img src="https://img.icons8.com/fluency/48/000000/filled-sent.png" width="50px"/> </a>&nbsp;&nbsp;<a
+href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/filled-sent.png" width="50px"/> </a>&nbsp;&nbsp;<a
 
 </br>
 
