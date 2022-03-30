@@ -4,11 +4,11 @@
 
 <h3 align="center"><i>A Passionate Developer from Uzbekistan, live in Japan</i></h3></br>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/asliddinxanov) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=asliddinxanov.profileviews-badge)](https://github.com/asliddinxanov) [![Followers](https://img.shields.io/github/followers/asliddinxanov?style=social)](https://github.com/asliddinxanov?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/asliddinxanov) [![Repos Badge] (https://badges.pufler.dev/repos/asliddinxanov)](https://github.com/asliddinxanov?tab=repositories)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/asliddinxanov) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=asliddinxanov.profileviews-badge)](https://github.com/asliddinxanov) [![Followers](https://img.shields.io/github/followers/asliddinxanov?style=social)](https://github.com/asliddinxanov?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/asliddinxanov) [![Repos Badge](https://github.com/asliddinxanov?tab=repositorie)](https://github.com/asliddinxanov?tab=repositories)
 <br></br>
 <!--
 **asliddinxanov/asliddinxanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://badges.pufler.dev/repos/asliddinxanov
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
