@@ -1,4 +1,4 @@
-<h1> <img alt="GIF" src="Gifs/coder.gif" width=200px height=200px align="right">
+<h1> <img alt="GIF" src="Gifs/coder.gif" width=300px height=200px align="senter">
   
 <p align="center" >
 
