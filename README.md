@@ -23,6 +23,6 @@ href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/
 
 </br>
 
-### ⚡ Github Activity Graph:-
-
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph)
