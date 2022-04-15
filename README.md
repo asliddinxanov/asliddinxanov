@@ -30,9 +30,9 @@ href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/
 
  . | .
 --- | --- 
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+![asliddinxanov's github stats](https://github-readme-stats.vercel.app/api?username=asliddinxanov&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asliddinxanov&theme=radical&layout=compact)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
 
 
 
