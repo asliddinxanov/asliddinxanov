@@ -27,3 +27,13 @@ href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph)
+
+ . | .
+--- | --- 
+![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
