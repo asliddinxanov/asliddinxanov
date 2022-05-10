@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Asliddin+Boburkhanov;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Live+in+Japan;Always+learning+new+things+;Machine+learning+enthusiast+and+Back-end+Developer)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Winni-img" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/Winnicius-Moura/0304825ed4550e9b21187d66cbb05046/raw/3a0777dc2c51d73d44396972a4f89939b4240486/githubimg.svg">
-</div>
+
 
 **📫 How to Reach me:**
 
