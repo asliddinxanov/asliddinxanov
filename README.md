@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Asliddin+Boburkhanov;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Live+in+Japan;Always+learning+new+things+;Machine+learning+enthusiast+and+Back-end+Developer)](https://git.io/typing-svg)
 
-
+<div style="display: inline_block"><br>
+src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
 
 **📫 How to Reach me:**
 
