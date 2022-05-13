@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/asliddin-boburkhanov-158a10197/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.facebook.com/shermurot"> <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://www.instagram.com/xanov_a/?hl=ja"> <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="50px"/> </a>&nbsp;&nbsp;<a href="https://twitter.com/xanov_a"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;<a
 href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
 
+**Tools & Platform:**
+
 Property | Data
 --- | --- 
 **Language / IDE**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) 
