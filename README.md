@@ -11,7 +11,6 @@
 <a href="https://twitter.com/xanov_a"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
 
-##
 
 ### Tools & Platform:
 
@@ -31,7 +30,6 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph)
 
-##
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
 
