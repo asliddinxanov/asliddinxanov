@@ -30,9 +30,10 @@ Property | Data
 ### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph)
 
+##
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
 
-
+##
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
