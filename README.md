@@ -32,6 +32,3 @@ Property | Data
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
-
-
-![](./profile-3d-contrib/profile-green-animate.svg)
