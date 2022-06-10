@@ -30,3 +30,14 @@ Property | Data
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
+
+<p>For this guide, I&#8217;m using Python 3.5. My development system runs on macOS 10.12 and I deploy my code to a server running Ubuntu 12.16, so this guide will include commands for setting up the software on both macOS and Linux/Ubuntu. I don&#8217;t use any version of Windows so I don&#8217;t know how to set this up on Windows &#8211; if anyone can provide a set of Windows commands that achieve the same goal, drop me an email and I&#8217;ll add them to the blog post.</p>
+<h3><strong>What are we trying to accomplish?</strong></h3>
+<p>The first hurdle to doing any analysis of Japanese text is segmentation, or tokenisation; breaking it down into usable chunks. For European languages, words have spaces between them, so you can just divide everything up at the word boundaries (the spaces, commas, full stops and so on), which yields an array of words that we can use to calculate things like frequencies or co-occurrence matrices. Japanese, however, has no spaces in its text, so there&#8217;s an extra pre-processing step required before we can start using these text analysis approaches.</p>
+<p>In essence, we want to turn a string like this&#8230;</p>
+<pre><code class="language-json">&quot;今日はいい天気ですね。遊びに行かない？新宿で祭りがある！&quot;</code></pre>
+<p>&#8230; into an array like this&#8230;</p>
+<pre><code class="language-json">
+[&quot;今日&quot;,　&quot;は&quot;,　&quot;いい&quot;,　&quot;天気&quot;,　&quot;です&quot;,　&quot;ね&quot;,　&quot;遊び&quot;,　&quot;に&quot;,　&quot;行か&quot;,　&quot;ない&quot;,　&quot;新宿&quot;,　&quot;で&quot;,　&quot;祭り&quot;,　&quot;が&quot;,　&quot;ある&quot;]
+
+</code></pre>
