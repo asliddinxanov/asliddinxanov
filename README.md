@@ -30,11 +30,3 @@ Property | Data
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
-
-
-<pre><code class="language-json">&quot;今日はいい天気ですね。遊びに行かない？新宿で祭りがある！&quot;</code></pre>
-<p>&#8230; into an array like this&#8230;</p>
-<pre><code class="language-json">
-[&quot;今日&quot;,　&quot;は&quot;,　&quot;いい&quot;,　&quot;天気&quot;,　&quot;です&quot;,　&quot;ね&quot;,　&quot;遊び&quot;,　&quot;に&quot;,　&quot;行か&quot;,　&quot;ない&quot;,　&quot;新宿&quot;,　&quot;で&quot;,　&quot;祭り&quot;,　&quot;が&quot;,　&quot;ある&quot;]
-
-</code></pre>
