@@ -28,7 +28,7 @@ Property | Data
 
 <!-- GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph) -->
+[![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph)
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&hide_border=true&theme=redical)
 
