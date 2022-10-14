@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/asliddin-boburkhanov-158a10197/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50px"/> </a>&nbsp;&nbsp;
 <a href="https://twitter.com/xanov_a"> <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50px"/> </a>&nbsp;&nbsp;
 <a href="https://t.me/Xanov_A"> <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="50px"/> </a>&nbsp;&nbsp;
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/> 
 
 
 ### Tools & Platform:
