@@ -36,7 +36,6 @@ Property | Data
 
 ### 📈 GitHub Activity Graph:
 [![asliddinxanov's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asliddinxanov&theme=github-compact)](https://github.com/asliddinxanov/github-readme-activity-graph)
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&hide_border=true&theme=redical)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov"></img>
