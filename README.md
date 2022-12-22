@@ -30,8 +30,14 @@ Property | Data
 </br>
 
 <!-- GitHub stats graph -->
-### 📈 GitHub Activity Graph:
+<!--### 📈 GitHub Activity Graph:-->
 <!-- [![asliddinxanov's github activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&theme=react-dark)](https://github.com/asliddinxanov/github-readme-activity-graph) -->
+<!--   GitHub stats graph -->
+
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=asliddinxanov&theme=github-compact)](https://github.com/asliddinxanov/github-readme-activity-graph)
+
+| .                                                                                                                                       | .              
 
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asliddinxanov&hide_border=true&theme=redical)
 
