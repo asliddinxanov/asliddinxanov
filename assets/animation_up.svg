@@ -16,7 +16,7 @@
 
                     <defs>
         <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stop-color="#9c6f46"/><stop offset="100%" stop-color="#856032"/>
+            <stop offset="0%" stop-color="#856032"/><stop offset="100%" stop-color="#856032"/>
         </linearGradient>
     </defs>
 
@@ -28,7 +28,7 @@
 </path>
     </g>
 
-            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" > Welcome to my profile!</text>
+            <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" font-family="Georgia" > Welcome to my profile!</text>
 
 </svg>
         
