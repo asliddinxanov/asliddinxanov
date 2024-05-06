@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Asliddin+Boburkhanov;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Live+in+Japan;Always+learning+new+things+;Machine+learning+enthusiast+and+Back-end+Developer)](https://git.io/typing-svg)
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/asliddinxanov) (https://github.com/asliddinxanov) [![Followers](https://img.shields.io/github/followers/asliddinxanov?style=social)](https://github.com/asliddinxanov?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/asliddinxanov) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/asliddinxanov) [![Followers](https://img.shields.io/github/followers/asliddinxanov?style=social)](https://github.com/asliddinxanov?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/asliddinxanov) 
 <!-- [![Repos Badge](https://badges.pufler.dev/repos/asliddinxanov)](https://github.com/asliddinxanov?tab=repositories) --> 
 
 ####
