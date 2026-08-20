@@ -35,4 +35,7 @@ Property | Data
 
 ### 📈 GitHub Activity Graph:
 
-<img src="https://github-readme-stats.vercel.app/api?username=asliddinxanov&show_icons=true&theme=react" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asliddinxanov/asliddinxanov/output/github-snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/asliddinxanov/asliddinxanov/output/github-snake.svg" />
+</picture>
