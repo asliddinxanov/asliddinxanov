@@ -35,4 +35,4 @@ Property | Data
 
 ### 📈 GitHub Activity Graph:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asliddinxanov&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=asliddinxanov&show_icons=true&theme=react" />
