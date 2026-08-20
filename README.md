@@ -35,4 +35,4 @@ Property | Data
 
 ### 📈 GitHub Activity Graph:
 
-<img src="https://streak-stats.demolab.com/?user=asliddinxanov"></img>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asliddinxanov&theme=react-dark&hide_border=true" />
