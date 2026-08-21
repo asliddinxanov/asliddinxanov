@@ -46,13 +46,19 @@ Property | Data
 
 ### 📊 GitHub Stats:
 
-<!-- github-readme-stats (vercel) was returning 503 as of 2026-08, so the streak card is used instead.
-     If the stats card comes back, uncomment the block below.
+<!-- Both github-readme-stats (503) and the streak card (intermittent connection
+     failures, which GitHub's camo proxy caches as a broken image) were unreliable
+     as of 2026-08, so github-profile-summary-cards is used instead.
+     If those services recover, the blocks below can be restored.
 [![Stats](https://github-readme-stats.vercel.app/api?username=asliddinxanov&show_icons=true&theme=react&hide_border=true)](https://github.com/asliddinxanov)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asliddinxanov&layout=compact&theme=react&hide_border=true)](https://github.com/asliddinxanov)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asliddinxanov&theme=react&hide_border=true)](https://github.com/asliddinxanov)
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asliddinxanov&theme=react&hide_border=true)](https://github.com/asliddinxanov)
+[![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliddinxanov&theme=github_dark)](https://github.com/asliddinxanov)
+
+[![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asliddinxanov&theme=github_dark)](https://github.com/asliddinxanov?tab=repositories)
+[![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asliddinxanov&theme=github_dark)](https://github.com/asliddinxanov)
 
 ### 📈 GitHub Activity Graph:
 
