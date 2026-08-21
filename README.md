@@ -10,9 +10,11 @@
 ### 🧑‍💻 About Me:
 
 - 🇯🇵 Based in Japan, working as a **Back-end Developer** and **Machine Learning** enthusiast
+- 🐘 Currently building web back-ends with **PHP / Laravel**
 - 🐍 Day-to-day in **Python**, with **Dart / Flutter** for mobile and **C/C++** for embedded & IoT work
 - ☁️ Building and running things on **AWS** (S3 / EC2 / Lambda)
 - 🤖 Interested in applied ML, data pipelines, and automation (RPA / WinActor)
+- ✨ Practicing **Vibe Coding** — building software hand in hand with AI coding agents
 - 🌱 Always learning something new — currently deepening my ML and cloud architecture skills
 
 **📫 How to Reach me:**
@@ -26,7 +28,9 @@
 
 Property | Data
 --- | ---
-**Language / IDE** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Language / IDE** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=PyCharm&logoColor=white) ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+**Web / Back-end** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Composer](https://img.shields.io/badge/-Composer-885630?style=flat&logo=composer&logoColor=white) ![Blade](https://img.shields.io/badge/-Blade-F05340?style=flat&logo=laravel&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
+**AI-Assisted Dev** | ![Vibe Coding](https://img.shields.io/badge/-Vibe%20Coding-8A2BE2?style=flat&logo=sparkfun&logoColor=white) ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 **Domain Knowledge** | ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white) ![Data Science](https://img.shields.io/badge/-Data%20Science-FAB040?style=flat&logoColor=white) ![Electrical Engineering](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) ![IoT](https://img.shields.io/badge/-IoT-00BFFF?style=flat&logo=raspberrypi&logoColor=white)
 **CI / CD** | ![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=GitHub&logoColor=white) ![Git](https://img.shields.io/badge/-Git-2088FF?style=flat&logo=Git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql&logoColor=blue)
